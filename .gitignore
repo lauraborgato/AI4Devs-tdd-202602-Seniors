@@ -26,3 +26,8 @@ yarn-error.log*
 .vscode
 
 # .env
+.claude/skills/**/evals/**
+
+# evals
+evals/ 
+.claude/skills/*/.workspace/**

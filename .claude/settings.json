@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(.claude/skills)",
+      "Read(.claude/skills)",
+      "Edit(.claude/skills)",
+      "Bash(npm *)",
+      "Bash(git *)",
+      "Read",
+      "Edit"
+    ]
+  }
+}
